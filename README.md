@@ -6,9 +6,14 @@ lets you browse your efi
 
 lets you change entries (grub specifically i think)
 
+the exe is in releases
+
+
+
+
 ---
 
-## ⚠️ Disclaimer
+# Disclaimer
 
 This software is provided "as is", without warranty of any kind, express or implied.
 
